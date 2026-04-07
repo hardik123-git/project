@@ -1,0 +1,2873 @@
+@media only screen and (min-width: 769px) and (max-width: 1024px){
+
+/* start opport section */
+.inner_opport{
+    padding: 19px;
+    padding-bottom: 26px;
+}
+
+.carrer_opport h1{
+    font-weight: 700;
+    font-size: 45px !important;
+    line-height: 60px;
+}
+
+.carrer_para{
+    font-weight: 352;
+    font-size: 19px;
+    line-height: 31px;
+    padding: 16px 0px;
+}
+
+.carrer_ul_img img{
+    padding-top: 2.5px;
+    width: 88%;
+}
+
+.carrer_ul ul li{
+    gap: 9px;
+    margin-top: 13px;
+}
+
+.carrer_ulpara{
+    font-weight: 352;
+    font-size: 19px;
+    line-height: 29px;
+}
+
+.carrer_buttons{
+    margin-top: 19px;
+    gap: 19px;
+}
+
+.carrer_buttons1{
+    border-radius: 7px;
+    padding: 14px 42px;
+    border: 1px solid;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    box-shadow: 0px 4px 12px 2px #2699FB61;
+    font-size: 17px;
+    line-height: 25px;
+}
+
+.carrer_buttons2{
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 14px 25px;
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+    font-weight: 440;
+    font-style: Medium;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0%;
+}
+
+.form{
+    border-radius: 7px;
+    padding: 35px;
+    margin: 44px auto;
+}
+
+.input_box label{
+    font-weight: 440;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.input_box input{
+    border-radius: 7px;
+    padding: 9px 12px;
+    gap: 7px;
+    font-weight: 352;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 13px;
+}
+
+.inp_mob{
+    border-radius: 7px;
+    margin-bottom: 13px;
+}
+
+.mob_no{
+    width: 86% !important;
+}
+
+.mob_91{
+    padding-left: 9px;   
+}
+
+.Register_button button{
+    width: 100%;
+    opacity: 1;
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 9px 16px;
+    gap: 7px;
+    font-weight: 440;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.form h2{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 35px;
+}
+
+ /* end opport section */
+
+/* bar section */
+
+.bar_sec{
+    width: 100%;
+}
+
+.inner_bar{
+    max-width: 980px;
+    gap: 30px;
+    margin: 50px auto;
+    padding: 24px;
+}
+
+.bar_cont1{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #2699FB;
+    margin-bottom: 10px;
+}
+
+
+.bar_cont2{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #43505B;
+}
+
+/* end bar section */
+
+/* course section */
+
+.inner_course_box{
+    margin-bottom: 30px;
+}
+
+.inner_course_box_cont{
+    margin-left: 15px;  
+}
+
+.inner_course_box_cont h3{
+    margin-bottom: 10px;  
+    font-size: 16px;
+}
+
+.inner_course_box_cont p{
+    font-size: 12px;
+}
+
+.button_book{
+    margin: 25px 0px;
+}
+
+/* end course section */
+
+/* digi marketing */
+
+.DM{
+    width: 100%;
+}
+
+.inner_DM{
+    padding: 20px;
+    margin: 73px auto;
+}
+
+.inner_DM>h2{
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.inner_DM>p{
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    margin-bottom: 25px;
+}
+
+.dm_box{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.inner_dm_box{
+    padding: 12px;
+}
+
+
+.inner_dm_box_cont img{
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.inner_dm_box_cont h3{
+    margin-bottom: 20px;
+    font-size: 17px;
+    line-height: 100%;
+    letter-spacing: 2%;
+}
+
+.inner_dm_box_cont p{
+    font-size: 14px;
+    line-height: 22px;
+}
+
+/* end digi marketing */
+
+/* certificate */
+
+
+.inner_certificate{
+    display: flex;
+    margin: auto;
+    padding: 0px 15px;
+}
+
+.left_certificate{
+    flex-basis: 48%;
+    margin-right: 2%;
+    padding: 100px 0px;
+}
+
+.left_certificate>h4{
+    font-size: 32px;
+    letter-spacing: 0%;
+    margin-bottom: 15px;
+}
+
+.left_certificate>p{
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 60px;
+}
+
+.certifi_box{
+    margin-bottom: 20px;
+}
+
+.inner_certifi_box{
+    display: flex;
+    padding: 13px;
+}
+
+.inner_certifi_box_img{
+    width: 74px;
+    padding: 10px;
+    background: url(../images/Rectangle\ 555.svg) no-repeat center;
+    background-size: 100%;
+}
+
+.inner_certifi_box_img img{
+    transform: translate(5px,3px);
+}
+
+.inner_certifi_box_cont{
+    display: block;
+    margin-left: 15px;
+}
+
+.inner_certifi_box_cont h4{
+    font-size: 18px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #0A2134;
+    margin-bottom: 10px;
+}
+
+.inner_certifi_box_cont p{
+    font-size: 11px;
+    line-height: 18px;
+    color: #0A2134;
+}
+
+.certifi_button button{
+    padding: 14px 41px;
+    font-size: 19px;
+    line-height: 28px;
+    margin-top: 50px;
+}
+
+.right_certificate{
+    flex-basis: 50%;
+    background: url(../images/image\ 136.svg) 16px 43px no-repeat,
+    url(../images/Ellipse\ 94.svg) 342px 570px no-repeat;
+}
+
+.right_certificate img{
+    margin: 56px 47px;
+}
+
+/* end certificate */
+
+/* curriculumn */
+
+.in_dm_curriculumn ul li{
+    font-size: 19px;
+}
+
+/*end curriculumn */
+
+/* learn dm */
+
+.inside_learn{
+    max-width: 1170px;
+    margin: auto;
+    padding: 80px 20px;
+}
+
+.inside_learn>h4{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.inside_learn>p{
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 20px;
+}
+
+.learn_box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 35px 0px;
+}
+
+.inner_learn_box{
+    flex-basis: 31%;
+    margin: 0% 2% 2.5% 0%;
+}
+
+.inner_learn_box2{
+    padding: 18px;
+}
+
+.inner_learn_box2 img{
+    margin-bottom: 15px;
+}
+
+.inner_learn_cont h6{
+    font-size: 18px;
+    margin: 15px 0px;
+}
+
+.inner_learn_cont p{
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 15px;
+}
+
+.learn_button button{
+    padding: 16px 48px;
+
+    font-size: 20px;
+    line-height: 28px;
+}
+/* end learn dm */
+
+/* student */
+
+.student{
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.inner_student{
+    max-width: 1170px;
+    margin: auto;
+    padding: 85px 20px;
+}
+
+.inner_student>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 44px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 20px;
+}
+
+.inner_student>p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 20px;
+}
+
+.student_box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.in_student_box{
+    flex-basis: 49%;
+    border-radius: 8px;
+    border-width: 1px;
+    background: #FFFFFF;
+    border: 1px solid #F2F4F7;
+    box-shadow: 0px 4px 20px -2px #002F5814;
+    margin: 50px 0px;
+}
+
+.in_student_box2{
+    padding: 15px;
+}
+
+.student_id{
+    display: flex;
+}
+
+.student_cont{
+    padding: 0px 0px 0px 15px;
+}
+
+.student_cont>h6{
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #0A2134;
+    margin-top: 20px;
+}
+
+.student_cont>p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    leading-trim: NONE;
+    line-height: 22px;
+    letter-spacing: 0%;
+    color: #0A2134;
+    margin-top: 6px;
+}
+
+.student_p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    padding: 15px 30px 15px 0px;
+}
+
+.student_big_box{
+    border-radius: 16px;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    text-align: center;
+}
+
+.student_big_box2{
+   background: url(../images/image\ 145.svg) -2px 16px no-repeat,
+    url(../images/image\ 146.svg) 746px 30px no-repeat;
+}
+
+.student_big_box2>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 44px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 45px;
+}
+
+.student_big_box2>p{
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 25px;
+}
+
+.student_big_box2>button{
+   
+    border-radius: 8px;
+    padding: 16px 48px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #0A2134;
+
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+
+    margin-top: 30px;
+    margin-bottom: 65px;
+}
+
+/* End student */
+
+/* digi_image */
+
+.digi_img{
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.inner_digi_image{
+    max-width: 1170px;
+    margin: auto;
+    padding: 80px 10px;
+}
+
+.inner_digi_image h3{
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 35px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 25px;
+}
+
+/* end digi_image */
+
+} 
+
+@media only screen and (min-width: 427px) and (max-width: 768px){
+
+/* start opport section */
+.inner_opport{
+    flex-direction: column;
+    max-width: 1170px;
+    padding: 15px;
+    padding-bottom: 20px;
+}
+
+.opport_right{
+    flex-basis: 48%;
+    border-radius: 50%;
+    background: none;
+}
+
+.carrer_opport h1{
+    font-size: 35px !important;
+    line-height: 46px;
+}
+
+.carrer_para{
+    font-size: 15px;
+    line-height: 31px;
+    padding: 16px 0px;
+}
+
+.carrer_ul_img img{
+    padding-top: 2.5px;
+    width: 88%;
+}
+
+.carrer_ul ul li{
+    gap: 9px;
+    margin-top: 3px;
+}
+
+.carrer_ulpara{
+    font-size: 15px;
+    line-height: 29px;
+}
+
+.carrer_buttons{
+    margin-top: 19px;
+    gap: 19px;
+}
+
+.carrer_buttons1{
+    border-radius: 7px;
+    padding: 14px 42px;
+    border: 1px solid;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    box-shadow: 0px 4px 12px 2px #2699FB61;
+    font-size: 17px;
+    line-height: 25px;
+}
+
+.carrer_buttons2{
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 14px 25px;
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0%;
+}
+
+.form{
+    border-radius: 7px;
+    padding: 35px;
+    margin: 44px auto;
+}
+
+.input_box label{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.input_box input{
+    border-radius: 7px;
+    padding: 9px 12px;
+    gap: 7px;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 13px;
+}
+
+.inp_mob{
+    border-radius: 7px;
+    margin-bottom: 13px;
+}
+
+.mob_no{
+    width: 86% !important;
+}
+
+.mob_91{
+    padding-left: 9px;   
+}
+
+.Register_button button{
+    width: 100%;
+    opacity: 1;
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 9px 16px;
+    gap: 7px;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.form h2{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 35px;
+}  
+
+/* end opport section */
+
+/* bar section */
+
+.bar_sec{
+    width: 100%;
+}
+
+.inner_bar{
+    max-width: 700px;
+    gap: 30px;
+    margin: 50px auto;
+    padding: 24px;
+}
+
+.bar_cont1{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #2699FB;
+    margin-bottom: 10px;
+}
+
+
+.bar_cont2{
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #43505B;
+}
+
+/* end bar section */
+
+/* course section */
+
+.inner_course h2{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.inner_course>p{
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.inner_course_box{
+    margin-bottom: 30px;
+}
+
+.inner_course_box>img{
+    width: 60px;
+}
+
+.inner_course_box_cont{
+    margin-left: 15px;  
+}
+
+.inner_course_box_cont h3{
+    margin-bottom: 5px;  
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.inner_course_box_cont p{
+    font-size: 9px;
+}
+
+.button_book button{
+    padding: 15px 42px;
+    font-size: 18px;
+}
+
+/* end course section */
+
+/* digi marketing */
+
+.DM{
+    width: 100%;
+}
+
+.inner_DM{
+    padding: 16px;
+     margin: 65px auto;
+}
+
+.inner_DM>h2{
+    font-size: 35px;
+    line-height: 45px;
+}
+
+.inner_DM>p{
+    font-size: 16px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    margin-bottom: 23px;
+}
+
+.dm_box{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.inner_dm_box{
+    padding: 10px;
+}
+
+
+.inner_dm_box_cont img{
+    width: 35px;
+    padding: 4px;
+    margin-bottom: 18px;
+}
+
+.inner_dm_box_cont h3{
+    margin-bottom: 18px;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 2%;
+}
+
+.inner_dm_box_cont p{
+    font-size: 10px;
+    line-height: 17px;
+}
+
+/* end digi marketing */
+
+/* certificate */
+
+
+.inner_certificate{
+    margin: auto;
+    padding: 0px 15px;
+    flex-direction: column;
+}
+
+.left_certificate{
+    flex-basis: 48%;
+    margin-right: 2%;
+    padding: 100px 0px;
+}
+
+.left_certificate>h4{
+    font-size: 32px;
+    letter-spacing: 0%;
+    margin-bottom: 15px;
+}
+
+.left_certificate>p{
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 60px;
+}
+
+.certifi_box{
+    margin-bottom: 20px;
+}
+
+.inner_certifi_box{
+    display: flex;
+    padding: 13px;
+}
+
+.inner_certifi_box_img{
+    width: 74px;
+    padding: 10px;
+    background: url(../images/Rectangle\ 555.svg) no-repeat center;
+    background-size: 100%;
+}
+
+.inner_certifi_box_img img{
+    transform: translate(5px,3px);
+}
+
+.inner_certifi_box_cont{
+    display: block;
+    margin-left: 15px;
+}
+
+.inner_certifi_box_cont h4{
+    font-size: 18px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #0A2134;
+    margin-bottom: 10px;
+}
+
+.inner_certifi_box_cont p{
+    font-size: 11px;
+    line-height: 18px;
+    color: #0A2134;
+}
+
+.certifi_button button{
+    padding: 14px 41px;
+    font-size: 19px;
+    line-height: 28px;
+    margin-top: 50px;
+}
+
+.right_certificate{
+    margin: auto;
+    flex-basis: 50%;
+    background: url(../images/image\ 136.svg) 16px 43px no-repeat,
+    url(../images/Ellipse\ 94.svg) 342px 570px no-repeat;
+}
+
+.right_certificate img{
+    margin: 56px 47px;
+}
+
+/* end certificate */
+
+/* curriculumn */
+
+
+.inner_curriculumn>h3{
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 19px;
+}
+
+.Curriculum_list ul li{
+    font-size: 14px;
+}
+
+.dm_curriculumn{
+    padding: 15px;
+}
+
+
+.in_dm_curriculumn ul li{
+    font-size: 13px;
+}
+
+.in_dm_curriculumn ul li::before{
+    top: 7px;
+    box-sizing: border-box;
+}
+
+.Curriculumn_button button{
+    padding: 15px 45px;
+
+    font-size: 16px;
+}
+
+/*end curriculumn */
+
+/* learn dm */
+
+.inside_learn{
+    max-width: 1170px;
+    margin: auto;
+    padding: 80px 20px;
+}
+
+.inside_learn>h4{
+    font-size: 32px;
+    margin-bottom: 19px;
+}
+
+.inside_learn>p{
+    font-size: 14px;
+    line-height: 27px;
+    margin-bottom: 19px;
+}
+
+.learn_box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 30px 0px;
+}
+
+.inner_learn_box{
+    flex-basis: 31%;
+    margin: 0% 2% 2.5% 0%;
+}
+
+.inner_learn_box2{
+    padding: 13px;
+}
+
+.inner_learn_box2 img{
+    margin-bottom: 13px;
+    width: 60px;
+}
+
+.inner_learn_cont h6{
+    font-size: 13px;
+    margin: 13px 0px;
+}
+
+.inner_learn_cont p{
+    font-size: 10px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.learn_button{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.learn_button button{
+    
+    padding: 16px 48px;
+    font-size: 20px;
+    line-height: 28px;
+}
+/* end learn dm */
+
+/* student */
+
+.student{
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.inner_student{
+    max-width: 1170px;
+    margin: auto;
+    padding: 75px 15px;
+}
+
+.inner_student>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 20px;
+}
+
+.inner_student>p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 20px;
+}
+
+.student_box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.in_student_box{
+    flex-basis: 49%;
+    border-radius: 8px;
+    border-width: 1px;
+    background: #FFFFFF;
+    border: 1px solid #F2F4F7;
+    box-shadow: 0px 4px 20px -2px #002F5814;
+    margin: 45px 0px;
+}
+
+.in_student_box2{
+    padding: 15px;
+}
+
+.student_id{
+    display: flex;
+}
+
+.student_cont{
+    padding: 0px 0px 0px 15px;
+}
+
+.student_cont>h6{
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #0A2134;
+    margin-top: 20px;
+}
+
+.student_cont>p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    leading-trim: NONE;
+    line-height: 22px;
+    letter-spacing: 0%;
+    color: #0A2134;
+    margin-top: 6px;
+}
+
+.student_p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    padding: 15px 30px 15px 0px;
+}
+
+.student_big_box{
+    border-radius: 16px;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    text-align: center;
+}
+
+.student_big_box2{
+   background: url(../images/image\ 145.svg) -2px 16px no-repeat,
+    url(../images/image\ 146.svg) 525px 4px no-repeat;
+}
+
+.student_big_box2>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 35px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 35px;
+}
+
+.student_big_box2>p{
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 25px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+
+.student_big_box2>button{
+   
+    border-radius: 8px;
+    padding: 12px 40px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #0A2134;
+
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+/* End student */
+
+/* digital course*/
+
+.digi_c{
+    width: 100%;
+    background: #F7FAFF;
+}
+
+.digi_c_in{
+    max-width: 800px;
+    margin: auto;
+    padding: 80px 10px;
+}
+
+.digi_c_in>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 15px;
+}
+
+.digi_c_in>p{
+    color: #0A2134;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    leading-trim: NONE;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/* end digital course*/
+
+/* digi_image */
+
+.digi_img{
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.inner_digi_image{
+    max-width: 1170px;
+    margin: auto;
+    padding: 75px 10px;
+}
+
+.inner_digi_image h3{
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 25px;
+}
+
+/* end digi_image */
+
+} 
+
+@media only screen and (min-width: 377px) and (max-width: 426px){
+
+
+/* header section */
+.inner_header{
+    flex-direction: column;
+    align-items: center;
+}
+
+.header_right{
+    margin-top: 15px;
+}
+
+/* end header section */
+
+/* opport section */
+
+.inner_opport{
+    flex-direction: column;
+    max-width: 1170px;
+    padding: 15px;
+    padding-bottom: 20px;
+}
+
+.opport_right{
+    flex-basis: 48%;
+    border-radius: 50%;
+    background: none;
+}
+
+.carrer_opport h1{
+    font-size: 35px !important;
+    line-height: 46px;
+}
+
+.carrer_para{
+    font-size: 15px;
+    line-height: 31px;
+    padding: 16px 0px;
+}
+
+.carrer_ul_img img{
+    padding-top: 2.5px;
+    width: 88%;
+}
+
+.carrer_ul ul li{
+    gap: 9px;
+    margin-top: 3px;
+}
+
+.carrer_ulpara{
+    font-size: 15px;
+    line-height: 29px;
+}
+
+.carrer_buttons{
+    margin-top: 19px;
+    gap: 19px;
+}
+
+.carrer_buttons1{
+    border-radius: 7px;
+    padding: 10px 17px;
+    border: 1px solid;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    box-shadow: 0px 4px 12px 2px #2699FB61;
+    font-size: 12px;
+    line-height: 9px;
+}
+
+.carrer_buttons2{
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 10px 11px;
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+    font-size: 11px;
+    line-height: 18px !important;
+    letter-spacing: 0%;
+}
+
+.carrer_buttons2 img{
+    width: 20px;
+}
+
+.form{
+    border-radius: 7px;
+    padding: 35px;
+    margin: 44px auto;
+}
+
+.input_box label{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.input_box input{
+    border-radius: 7px;
+    padding: 9px 12px;
+    gap: 7px;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 13px;
+}
+
+.inp_mob{
+    border-radius: 7px;
+    margin-bottom: 13px;
+}
+
+.mob_no{
+    width: 83% !important;
+}
+
+.mob_91{
+    padding-left: 9px;   
+}
+
+.Register_button button{
+    width: 100%;
+    opacity: 1;
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 9px 16px;
+    gap: 7px;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.form h2{
+    text-align: center;
+    font-size: 33px;
+    padding-bottom: 35px;
+}  
+
+/* end opport section */
+
+/* bar section */
+
+.inner_bar{
+    max-width: 390px;
+    gap: 22px;
+    margin: 50px auto;
+    padding: 16px;
+}
+
+.bar_cont1{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 11px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #2699FB;
+    margin-bottom: 2px;
+}
+
+
+.bar_cont2{
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #43505B;
+}
+
+/* end bar section */
+
+/* course section */
+
+.inner_course h2{
+    font-size: 26px;
+    margin-bottom: 25px;
+}
+
+.inner_course>p{
+    font-size: 13px;
+    margin-bottom: 25px;
+}
+
+.inner_course_box{
+    flex-basis: 48%;
+    margin-bottom: 18px;
+}
+
+.inner_course_box>img{
+    width: 58px;
+}
+
+.inner_course_box_cont{
+    margin-left: 10px;  
+}
+
+.inner_course_box_cont h3{
+    margin-bottom: 5px;  
+    font-size: 9px;
+    line-height: 14px;
+}
+
+.inner_course_box_cont p{
+    font-size: 6px;
+}
+
+.button_book button{
+    padding: 15px 42px;
+    font-size: 18px;
+}
+
+/* end course section */
+
+/* digi marketing */
+
+.DM{
+    width: 100%;
+}
+
+.inner_DM{
+    padding: 10px;
+    margin: 60px auto;
+}
+
+.inner_DM>h2{
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.inner_DM>p{
+    font-size: 11px;
+    line-height: 20px;
+    margin-bottom: 23px;
+}
+
+.dm_box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.inner_dm_box{
+    padding: 10px;
+    flex-basis: 46%;
+    margin-bottom: 30px;
+}
+
+
+.inner_dm_box_cont img{
+    width: 35px;
+    padding: 4px;
+    margin-bottom: 18px;
+}
+
+.inner_dm_box_cont h3{
+    margin-bottom: 18px;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 2%;
+}
+
+.inner_dm_box_cont p{
+    font-size: 10px;
+    line-height: 17px;
+}
+
+/* end digi marketing */
+
+/* certificate */
+
+.inner_certificate{
+    margin: auto;
+    padding: 0px 15px;
+    flex-direction: column;
+}
+
+.left_certificate{
+    flex-basis: 48%;
+    margin-right: 2%;
+    padding: 100px 0px;
+}
+
+.left_certificate>h4{
+    font-size: 32px;
+    letter-spacing: 0%;
+    margin-bottom: 15px;
+}
+
+.left_certificate>p{
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 60px;
+}
+
+.certifi_box{
+    margin-bottom: 20px;
+}
+
+.inner_certifi_box{
+    display: flex;
+    padding: 13px;
+}
+
+.inner_certifi_box_img{
+    width: 74px;
+    padding: 10px;
+    background: url(../images/Rectangle\ 555.svg) no-repeat center;
+    background-size: 100%;
+}
+
+.inner_certifi_box_img img{
+    transform: translate(5px,3px);
+}
+
+.inner_certifi_box_cont{
+    display: block;
+    margin-left: 15px;
+}
+
+.inner_certifi_box_cont h4{
+    font-size: 16px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #0A2134;
+    margin-bottom: 10px;
+}
+
+.inner_certifi_box_cont p{
+    font-size: 10px;
+    line-height: 18px;
+    color: #0A2134;
+}
+
+.certifi_button button{
+    padding: 14px 41px;
+    font-size: 19px;
+    line-height: 28px;
+    margin-top: 50px;
+}
+
+.right_certificate{
+    margin: auto;
+    flex-basis: 50%;
+    background: none;
+}
+
+.right_certificate img{
+    margin: 56px 2px;
+    width: 390px;
+}
+
+/* end certificate */
+
+/* curriculumn */
+
+.Curriculumn{
+    width: 100%;
+}
+
+.inner_curriculumn{
+    max-width: 1170px;
+    margin: auto;
+    padding: 100px 10px;
+}
+
+.inner_curriculumn>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 33px;
+    leading-trim: NONE;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 19px;
+}
+
+.inner_curriculumn>p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 20px;
+}
+
+.Curriculum_list ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 35px 10px;
+}
+
+.Curriculum_list ul li{
+    padding: 6px;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 7px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #43505B;
+}
+
+.Curriculum_list ul li:nth-child(1){
+    border-bottom: 3px solid #2699FB;
+    border-width: 3px;
+    background: #F2F4F7;
+    padding: 6px;
+    color: #0A2134;
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.dm_curriculumn{
+    background: #FFFFFF;
+    border: 1px solid #F2F4F7;
+    box-shadow: 0px 4px 20px -2px #002F5814;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.in_dm_curriculumn ul{
+    list-style: none;
+    display: inline;
+}
+
+.in_dm_curriculumn ul li{
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #0A2134;
+}
+
+.in_dm_curriculumn ul li::before{
+    content: url(../images/Vector12.svg);
+    padding: 10px 10px;
+    position: relative;
+    top: 8px;
+    box-sizing: border-box;
+}
+
+.in_dm_curriculumn ul li span{
+    position: relative;
+    left: 48px;
+}
+
+.Curriculumn_button button{
+    border-radius: 8px;
+    border-width: 1px;
+    gap: 8px;
+    padding: 15px 45px;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    border: 1px solid;
+    border-image-source: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    box-shadow: 0px 4px 14px 2px #2699FB61;
+
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.Curriculumn_button{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+/*end curriculumn */
+
+/* learn dm */
+.learn{
+    width: 100%;
+    background: #F7FAFF;
+}
+
+.inside_learn{
+    max-width: 1170px;
+    margin: auto;
+    padding: 65px 8px;
+}
+
+.inside_learn>h4{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.inside_learn>p{
+    font-size: 8px;
+    line-height: 27px;
+    margin-bottom: 15px;
+}
+
+.learn_box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 30px 0px;
+}
+
+.inner_learn_box{
+    flex-basis: 47%;
+    margin: 0% 2% 3.5% 0%;
+}
+
+.inner_learn_box2{
+    padding: 10px;
+}
+
+.inner_learn_box2 img{
+    margin-bottom: 13px;
+    width: 60px;
+}
+
+.inner_learn_cont h6{
+
+    font-size: 11px;
+    margin: 13px 0px;
+}
+
+.inner_learn_cont p{
+    font-size: 9px;
+    line-height: 16px;
+    margin-bottom: 10px;
+}
+
+.learn_button{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.learn_button button{
+    border-radius: 8px;
+    border-width: 1px;
+    padding: 10px 25px;
+
+    font-size: 15px;
+    line-height: 28px;
+}
+/* end learn dm */
+
+/* student */
+
+.student{
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.inner_student{
+    max-width: 1170px;
+    margin: auto;
+    padding: 75px 15px;
+}
+
+.inner_student>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 35px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 20px;
+}
+
+.inner_student>p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    leading-trim: NONE;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 20px;
+}
+
+.student_box{
+    display: inline;
+}
+
+.in_student_box{
+    flex-basis: 49%;
+    border-radius: 8px;
+    border-width: 1px;
+    background: #FFFFFF;
+    border: 1px solid #F2F4F7;
+    box-shadow: 0px 4px 20px -2px #002F5814;
+    margin: 37px 0px;
+}
+
+.in_student_box2{
+    padding: 15px;
+}
+
+.student_id{
+    display: flex;
+}
+
+.student_cont{
+    padding: 0px 0px 0px 15px;
+}
+
+.student_cont>h6{
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #0A2134;
+    margin-top: 20px;
+}
+
+.student_cont>p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    leading-trim: NONE;
+    line-height: 22px;
+    letter-spacing: 0%;
+    color: #0A2134;
+    margin-top: 6px;
+}
+
+.student_p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    padding: 15px 30px 15px 0px;
+}
+
+.student_big_box{
+    border-radius: 16px;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    text-align: center;
+}
+
+.student_big_box2{
+   background: url(../images/image\ 145.svg) -2px 16px no-repeat,
+    url(../images/image\ 146.svg) 525px 4px no-repeat;
+}
+
+.student_big_box2>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 25px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 35px;
+}
+
+.student_big_box2>p{
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 11px;
+    leading-trim: NONE;
+    line-height: 25px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+
+.student_big_box2>button{
+   
+    border-radius: 8px;
+    padding: 9px 25px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 15px;
+    leading-trim: NONE;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #0A2134;
+
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+/* End student */
+
+/* digital course*/
+
+.digi_c{
+    width: 100%;
+    background: #F7FAFF;
+}
+
+.digi_c_in{
+    max-width: 800px;
+    margin: auto;
+    padding: 80px 10px;
+}
+
+.digi_c_in>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 10px;
+}
+
+.digi_c_in>p{
+    color: #0A2134;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    leading-trim: NONE;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* end digital course*/
+
+/* digi_image */
+
+.digi_img{
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.inner_digi_image{
+    max-width: 1170px;
+    margin: auto;
+    padding: 70px 10px;
+}
+
+.inner_digi_image h3{
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 25px;
+}
+
+/* end digi_image */
+
+/* footer */
+.footer{
+    width: 100%;
+    background: #0A2134;
+}
+
+.inner_footer{
+    max-width: 1170px;
+    margin: auto;
+}
+
+.footer_box{
+    padding: 40px 15px;
+}
+
+.footer_box1{
+    display: flex;
+    justify-content: center;
+}
+
+.footer_box2{
+    padding-top: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 10px;
+    leading-trim: NONE;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* end footer */
+
+/* last_footer */
+
+.last_footer{
+    border-top: 0.5px solid white;
+    width: 100%;
+    background: #0A2134;
+}
+
+.inner_last_footer{
+    max-width: 1170px;
+    margin: auto;
+    padding: 20px 0px;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/*end last_footer */
+
+} 
+
+@media only screen and (max-width: 376px){
+
+/* header section */
+.inner_header{
+    flex-direction: column;
+    align-items: center;
+}
+
+.header_right{
+    margin-top: 15px;
+}
+
+/* end header section */
+
+/* opport section */
+
+.inner_opport{
+    flex-direction: column;
+    max-width: 1170px;
+    padding: 15px;
+    padding-bottom: 20px;
+}
+
+.opport_right{
+    flex-basis: 48%;
+    border-radius: 50%;
+    background: none;
+}
+
+.carrer_opport h1{
+    font-size: 33px !important;
+    line-height: 46px;
+}
+
+.carrer_para{
+    font-size: 15px;
+    line-height: 31px;
+    padding: 16px 0px;
+}
+
+.carrer_ul_img img{
+    padding-top: 2.5px;
+    width: 88%;
+}
+
+.carrer_ul ul li{
+    gap: 9px;
+    margin-top: 3px;
+}
+
+.carrer_ulpara{
+    font-size: 15px;
+    line-height: 29px;
+}
+
+.carrer_buttons{
+    margin-top: 19px;
+    gap: 19px;
+}
+
+.carrer_buttons1{
+    border-radius: 7px;
+    padding: 10px 17px;
+    border: 1px solid;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    box-shadow: 0px 4px 12px 2px #2699FB61;
+    font-size: 12px;
+    line-height: 9px;
+}
+
+.carrer_buttons2{
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 10px 11px;
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+    font-size: 11px;
+    line-height: 18px !important;
+    letter-spacing: 0%;
+}
+
+.carrer_buttons2 img{
+    width: 20px;
+}
+
+.form{
+    border-radius: 7px;
+    padding: 35px;
+    margin: 44px auto;
+}
+
+.input_box label{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.input_box input{
+    border-radius: 7px;
+    padding: 9px 12px;
+    gap: 7px;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 13px;
+}
+
+.inp_mob{
+    border-radius: 7px;
+    margin-bottom: 13px;
+}
+
+.mob_no{
+    width: 80% !important;
+}
+
+.mob_91{
+    padding-left: 9px;   
+}
+
+.Register_button button{
+    width: 100%;
+    opacity: 1;
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 9px 16px;
+    gap: 7px;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.form h2{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 35px;
+}
+
+/* end opport section */
+
+/* bar section */
+
+.inner_bar{
+    max-width: 345px;
+    gap: 16px;
+    margin: 50px auto;
+    padding: 12px;
+}
+
+.bar_cont1{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 10px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #2699FB;
+    margin-bottom: -3px;
+}
+
+
+.bar_cont2{
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #43505B;
+}
+
+/* end bar section */
+
+/* course section */
+
+.inner_course h2{
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+
+.inner_course>p{
+    font-size: 12px;
+    margin-bottom: 25px;
+    line-height: 20px;
+}
+
+.inner_course_box{
+    flex-basis: 48%;
+    margin-bottom: 18px;
+    padding: 8px;
+}
+
+.inner_course_box>img{
+    width: 42px;
+}
+
+.inner_course_box_cont{
+    margin-left: 10px;  
+}
+
+.inner_course_box_cont h3{
+    margin-bottom: 1px;  
+    font-size: 9px;
+    line-height: 10px;
+}
+
+.inner_course_box_cont p{
+    font-size: 6px;
+}
+
+.button_book{
+    margin: 20px 0px;
+}
+
+.button_book button{
+    padding: 6px 26px;
+    font-size: 13px;
+}
+
+/* end course section */
+
+/* digi marketing */
+
+.DM{
+    width: 100%;
+}
+
+.inner_DM{
+    padding: 8px;
+    margin: 55px auto;
+}
+
+.inner_DM>h2{
+    font-size: 27px;
+    line-height: 32px;
+}
+
+.inner_DM>p{
+    font-size: 11px;
+    line-height: 20px;
+    margin-bottom: 23px;
+}
+
+.dm_box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.inner_dm_box{
+    padding: 10px;
+    flex-basis: 47%;
+    margin-bottom: 26px;
+}
+
+
+.inner_dm_box_cont img{
+    width: 35px;
+    padding: 4px;
+    margin-bottom: 18px;
+}
+
+.inner_dm_box_cont h3{
+    margin-bottom: 18px;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 2%;
+}
+
+.inner_dm_box_cont p{
+    font-size: 10px;
+    line-height: 17px;
+}
+
+/* end digi marketing */
+
+/* certificate */
+
+.inner_certificate{
+    margin: auto;
+    padding: 0px 10px;
+    flex-direction: column;
+}
+
+.left_certificate{
+    flex-basis: 48%;
+    margin-right: 2%;
+    padding: 100px 0px;
+}
+
+.left_certificate>h4{
+    font-size: 30px;
+    letter-spacing: 0%;
+    margin-bottom: 15px;
+}
+
+.left_certificate>p{
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+
+.certifi_box{
+    margin-bottom: 15px;
+}
+
+.inner_certifi_box{
+    display: flex;
+    padding: 10px;
+}
+
+.inner_certifi_box_img{
+    width: 65px;
+    padding: 10px;
+    background: url(../images/Rectangle\ 555.svg) no-repeat center;
+    background-size: 100%;
+}
+
+.inner_certifi_box_img img{
+    transform: translate(-1px,3px);
+}
+
+.inner_certifi_box_cont{
+    display: block;
+    margin-left: 15px;
+}
+
+.inner_certifi_box_cont h4{
+    font-size: 14px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #0A2134;
+    margin-bottom: 10px;
+}
+
+.inner_certifi_box_cont p{
+    font-size: 8px;
+    line-height: 16px;
+    color: #0A2134;
+}
+
+.certifi_button button{
+    padding: 11px 31px;
+    font-size: 16px;    
+    line-height: 28px;
+    margin-top: 51px;
+}
+
+.right_certificate{
+    margin: auto;
+    flex-basis: 50%;
+    background: none;
+}
+
+.right_certificate img{
+    margin: 56px 2px;
+    width: 348px;
+}
+
+/* end certificate */
+
+/* curriculumn */
+
+
+.inner_curriculumn{
+    padding: 85px 10px;
+}
+
+.inner_curriculumn>h3{
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 35px;
+    margin-bottom: 19px;
+}
+
+.inner_curriculumn>p{
+    font-size: 13px;
+    leading-trim: NONE;
+    line-height: 23px;
+}
+
+.Curriculum_list ul{
+    margin: 35px 2px;
+}
+
+.Curriculum_list ul li{
+    padding: 6px;
+    font-size: 6px;
+}
+
+.Curriculum_list ul li:nth-child(1){
+    padding: 6px;
+}    
+
+.dm_curriculumn{
+    padding: 2px;
+}
+
+.in_dm_curriculumn ul{
+    list-style: none;
+    display: inline;
+}
+
+.in_dm_curriculumn ul li{
+    font-size: 13px;
+}
+
+.in_dm_curriculumn ul li::before{
+    top: 8px;
+    box-sizing: border-box;
+}
+
+.in_dm_curriculumn ul li span{
+    position: relative;
+    left: 48px;
+}
+
+.Curriculumn_button button{
+    border-radius: 8px;
+    border-width: 1px;
+    gap: 8px;
+    padding: 12px 35px;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    border: 1px solid;
+    border-image-source: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    box-shadow: 0px 4px 14px 2px #2699FB61;
+
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.Curriculumn_button{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+/*end curriculumn */
+
+/* learn dm */
+
+.inside_learn{
+    max-width: 1170px;
+    margin: auto;
+    padding: 55px 8px;
+}
+
+.inside_learn>h4{
+    font-size: 22px;
+    margin-bottom: 11px;
+}
+
+.inside_learn>p{
+    font-size: 7px;
+    line-height: 27px;
+    margin-bottom: 9px;
+}
+
+.learn_box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 19px 0px;
+}
+
+.inner_learn_box{
+    flex-basis: 47%;
+    margin: 0% 2% 3.5% 0%;
+}
+
+.inner_learn_box2{
+    padding: 8px;
+}
+
+.inner_learn_box2 img{
+    margin-bottom: 13px;
+    width: 60px;
+}
+
+.inner_learn_cont h6{
+    font-size: 10px;
+    margin: 13px 0px;
+}
+
+.inner_learn_cont p{
+    font-size: 9px;
+    line-height: 16px;
+    margin-bottom: 10px;
+}
+
+.learn_button{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.learn_button button{
+    padding: 10px 25px;
+    font-size: 15px;
+    line-height: 28px;
+}
+/* end learn dm */
+
+/* student */
+
+.student{
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.inner_student{
+    max-width: 1170px;
+    margin: auto;
+    padding: 65px 10px;
+}
+
+.inner_student>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 20px;
+}
+
+.inner_student>p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    leading-trim: NONE;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 20px;
+}
+
+.student_box{
+    display: inline;
+}
+
+.in_student_box{
+    flex-basis: 49%;
+    border-radius: 8px;
+    border-width: 1px;
+    background: #FFFFFF;
+    border: 1px solid #F2F4F7;
+    box-shadow: 0px 4px 20px -2px #002F5814;
+    margin: 37px 0px;
+}
+
+.in_student_box2{
+    padding: 15px;
+}
+
+.student_id{
+    display: flex;
+}
+
+.student_cont{
+    padding: 0px 0px 0px 15px;
+}
+
+.student_cont>h6{
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #0A2134;
+    margin-top: 20px;
+}
+
+.student_cont>p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    leading-trim: NONE;
+    line-height: 22px;
+    letter-spacing: 0%;
+    color: #0A2134;
+    margin-top: 6px;
+}
+
+.student_p{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 0%;
+    padding: 15px 30px 15px 0px;
+}
+
+.student_big_box{
+    border-radius: 16px;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    text-align: center;
+}
+
+.student_big_box2{
+   background: url(../images/image\ 145.svg) -2px 16px no-repeat,
+    url(../images/image\ 146.svg) 525px 4px no-repeat;
+}
+
+.student_big_box2>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 25px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 35px;
+}
+
+.student_big_box2>p{
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 11px;
+    leading-trim: NONE;
+    line-height: 25px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+
+.student_big_box2>button{
+   
+    border-radius: 8px;
+    padding: 9px 25px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 15px;
+    leading-trim: NONE;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #0A2134;
+
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+/* End student */
+
+/* digital course*/
+
+.digi_c{
+    width: 100%;
+    background: #F7FAFF;
+}
+
+.digi_c_in{
+    max-width: 800px;
+    margin: auto;
+    padding: 80px 10px;
+}
+
+.digi_c_in>h3{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A2134;
+    margin-bottom: 10px;
+}
+
+.digi_c_in>p{
+    color: #0A2134;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    leading-trim: NONE;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* end digital course*/
+
+/* digi_image */
+
+.digi_img{
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.inner_digi_image{
+    max-width: 1170px;
+    margin: auto;
+    padding: 65px 8px;
+}
+
+.inner_digi_image h3{
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 25px;
+}
+
+/* end digi_image */
+
+/* footer */
+.footer{
+    width: 100%;
+    background: #0A2134;
+}
+
+.inner_footer{
+    max-width: 1170px;
+    margin: auto;
+}
+
+.footer_box{
+    padding: 40px 15px;
+}
+
+.footer_box1{
+    display: flex;
+    justify-content: center;
+}
+
+.footer_box2{
+    padding-top: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 8px;
+    leading-trim: NONE;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* end footer */
+
+/* last_footer */
+
+.last_footer{
+    border-top: 0.5px solid white;
+    width: 100%;
+    background: #0A2134;
+}
+
+.inner_last_footer{
+    max-width: 1170px;
+    margin: auto;
+    padding: 20px 0px;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/*end last_footer */
+
+} 

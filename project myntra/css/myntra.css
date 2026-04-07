@@ -1,0 +1,194 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+a{
+	text-decoration: none;
+}
+
+body{
+	font-family: "Roboto", sans-serif;
+}
+
+.header{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 50px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.menu ul{
+	display: flex;
+	font-weight: 500;
+	gap: 40px;
+	padding: 10px 40px;
+}
+
+.menu ul li{
+	list-style: none;
+	cursor: pointer;	
+}
+
+.search{
+	display: flex;
+	flex-grow: 1;
+	background-color: #F5F5F6;
+	padding: 15px 20px;
+	cursor: pointer;
+
+}
+
+.header_right{
+	display: flex;
+	gap: 20px;
+	padding-left: 30px;
+	text-align: center;
+}
+
+.icon_font{
+	font-size: 16px;
+	padding-bottom: 5px;
+} 
+
+.inner_search input{
+	margin-left: 10px;
+	width: 100%;
+	border: 0px;
+	background-color: #F5F5F6
+}
+
+.banner{
+	width: 100%;
+}
+
+.banner1 img{
+	width: 100%;
+}
+
+.banner2{
+	display: flex;
+	width: 100%;
+}
+
+.banner2 img{
+	width: 100%;
+}
+
+.pocket_photos{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: center;
+}
+
+.pocket_photos img{
+	width: 16%;
+}
+
+.omg_banner{
+	padding: 15px 20px;
+}
+
+.omg_banner img{
+	width: 100%;
+}
+
+.omg_photos{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: center;
+}
+
+.omg_photos img{
+	width: 18%;
+	margin: 0.4%;
+}
+
+.category{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;	
+}
+
+.category_photo{
+	flex-basis: 16.66%;
+}
+
+.category_photo img{
+	   width: 100%;;
+}
+
+.footer{
+	background-color: #FAFBFC;
+	color: #9EA0A8;
+}
+
+.footer1{
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.footer1 h2{
+	font-size: 16px;
+	padding-top: 40px;
+	color: black;
+}
+
+
+.online_useful ul{
+	padding-top: 20px;
+	list-style: none;
+}
+
+.Customer_policy ul{
+	padding-top: 20px;
+	list-style: none;
+}
+
+.experience ul{
+	padding-top: 20px;
+	list-style: none;
+}
+
+.experience{
+	width: 20%;
+}
+
+.orginal_return2{
+	display: flex;
+}
+
+.orginal_return1{
+	padding-top: 40px;
+}
+
+.orginal_return2 img{
+	padding-top: 0px;
+}
+
+.footer2{
+	padding: 30px 170px
+}
+
+.footer2 h2{
+	font-size: 16px;
+	padding-bottom: 35px;
+	color: black;
+}
+
+.footer2 hr{
+	border: none;
+	border-top: 1px solid black;
+	margin: 20px 0;
+}
+
+.footer3{
+	display: flex;
+	padding-top: 40px;
+	justify-content: space-evenly;
+}
