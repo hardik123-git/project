@@ -1,0 +1,159 @@
+:root {
+  font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+  line-height: 1.4;
+  color: #2f1c2c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.app {
+  position: relative;
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+}
+
+.popup {
+  position: relative;
+  z-index: 2;
+  width: min(92vw, 560px);
+  padding: 24px 16px;
+}
+
+.envelope {
+  position: relative;
+  width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
+  perspective: 900px;
+}
+
+.envelope-flap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 120px;
+  background: linear-gradient(135deg, #ffc3db, #ff94be);
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+  transform-origin: top center;
+  transition: transform 0.8s ease;
+  z-index: 3;
+}
+
+.envelope.open .envelope-flap {
+  transform: rotateX(180deg);
+}
+
+.envelope-body {
+  margin-top: 66px;
+  background: #fff2f8;
+  border: 2px solid #f6a4ca;
+  border-radius: 12px;
+  padding: 24px;
+  min-height: 250px;
+  display: grid;
+  place-items: center;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+}
+
+.flower-btn {
+  width: 88px;
+  height: 88px;
+  border: 0;
+  border-radius: 999px;
+  background: #ffffff;
+  font-size: 38px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  z-index: 9;
+}
+
+.flower-btn:hover {
+  transform: scale(1.08);
+}
+
+.letter {
+  width: 100%;
+  text-align: center;
+  display: grid;
+  gap: 16px;
+}
+
+.letter p {
+  margin: 0;
+  white-space: pre-line;
+  font-size: clamp(1rem, 2vw, 1.2rem);
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.actions button {
+  border: 0;
+  border-radius: 999px;
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.actions button:first-child {
+  background: #00a86b;
+}
+
+.actions button:last-child {
+  background: #e54670;
+}
+
+.video-wrap {
+  position: relative;
+  z-index: 2;
+  width: min(94vw, 980px);
+  aspect-ratio: 16 / 9;
+  background: #111;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.4);
+}
+
+.video-player {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 520px) {
+  .envelope-body {
+    padding: 18px;
+    min-height: 220px;
+  }
+}
